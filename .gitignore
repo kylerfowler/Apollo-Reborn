@@ -4,6 +4,8 @@
 packages/
 Version.h
 .env
+.env.personal-build
+.env.speedflight
 data/
 .claude/*
 !.claude/skills/
